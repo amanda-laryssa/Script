@@ -1,0 +1,3 @@
+#!/bin/bash
+echo "Atenção você esta apagando todos os arquivos presente neste diretorio."
+rm -rf $(pwd) 2> /dev/
