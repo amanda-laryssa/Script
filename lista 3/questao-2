@@ -1,0 +1,4 @@
+#!/bin/bash
+read -p "Digite três valores:" $1 $2 $3
+echo "O valor  da soma e : $(${1}+${2}+${3})"
+

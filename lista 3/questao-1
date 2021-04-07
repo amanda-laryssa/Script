@@ -1,0 +1,4 @@
+#!/bin/bash
+read -p "Digite o valor de x:" x
+echo "O valor de x é:$(${x} + 21)"
+

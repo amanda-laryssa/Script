@@ -1,0 +1,4 @@
+#!/bin/bash
+read -p "Escreva dois valores para a expressão:"$1 $2
+echo "$((${1}+10)**${2})"
+
