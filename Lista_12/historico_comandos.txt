@@ -1,0 +1,435 @@
+    1  xev -event keyboard
+    2  *************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************xmodmap -e "keycode 63 ="
+    3  sudo apt install libxcb-xevie0 x11-xserver-utils
+    4  sudo apt install ssh
+    5  sudo apt-get install ssh
+    6  poweroff
+    7  sudo poweroff*
+    8  sudo poweroff
+    9  sudo apt-get anydesk_6.1.0-1_amd64.deb
+   10  sudo apt install ./anydesk*6.deb
+   11  sudo dpkg --configure -a
+   12  sudo apt install ./anydesk*6.deb
+   13  ip a
+   14  ************************************************************
+   15  sudo apt install xev x11-xserver-utils
+   16  sudo apt install libxcb-xevie0 x11-xserver-utils 
+   17  xmodmap -pm
+   18  cd /usr/share/X11/xkb/symbols/
+   19  ls
+   20  cp pt pt-orig
+   21  sudo cp pt pt-orig
+   22  s****************************************
+   23  sudo nano pt
+   24  ************************************************************************************************************************************
+   25  cd /usr/share/X11/xkb/symbols/
+   26  ls
+   27  sudo rm pt.save 
+   28  cd
+   29  sudo apt-get update
+   30  sudo apt-get upgrade
+   31  sudo apt-get install ssh
+   32  exit
+   33  xinput --list
+   34  ********************************************************
+   35  clear
+   36  xev -event keyboard
+   37  clear
+   38  xev
+   39  clear
+   40  exit
+   41  sudo cat /etc/NetworkManager/sistem-connections/Auto\ Sample\ wifi
+   42  sudo cat /etc/NetworkManager/sistem-connections/
+   43  sudo cat /etc/NetworkManager/system-connections/
+   44  sudo cat /etc/NetworkManager/system-connections/Auto\ Sample\ wifi
+   45  sudo cat /etc/NetworkManager/system-connections/Auto
+   46  sudo cat /etc/NetworkManager/system-connections
+   47  clear
+   48  xset 2>&1 | grep -A3 'auto-repeat'
+   49  ****************************************************
+   50  xev -event keyboard
+   51  ****************************************************************************
+   52  xev -event keyboard
+   53  xset -r 63
+   54  xmodmap -e 'keycode <value>='**************
+   55  xset -r 63*
+   56  xset -**
+   57  xset -r 63***
+   58  xset -r 6**3*******
+   59  xset -r 63
+   60  ************
+   61  ***************
+   62  **
+   63  **
+   64  **
+   65  ****
+   66  **
+   67  *xmodmap -e 'keycode <**v*********alue>='*************
+   68  *****
+   69  **
+   70  ***
+   71  **
+   72  *****
+   73  xset -r 63***
+   74  xset 2>&1 | grep -A3 'auto-repeat'*********
+   75  -*r**
+   76  -r***
+   77  xset 2>&1 | grep -A3 'auto-repeat'********
+   78  xset 2>&1 | grep -A3 'auto-r******
+   79  xset 2>&1 | grep -A3 'auto-repea******
+   80  xset 2>&1 | grep -A3 'auto-repeat' -***
+   81  xset 2>&1 | grep -A3 'auto-repeat' -r***
+   82  **
+   83  xset 2>&1 | grep -A3 'auto-re**************
+   84  *****
+   85  *xmodmap -e 'keycode <value>=**[2~**************'
+   86  *xmodmap -e 'keycode************************'
+   87  sudo apt install xmodmap
+   88  sudo apt install x11*
+   89  sudo apt insta**
+   90  sudo apt install x11*
+   91  ********************
+   92  xmodmap -e 'ke
+   93  xmodmap -e 'keycode 63='**
+   94  xmodmap -e 'keycode 63='
+   95  wget https://ufpr.dl.sourceforge.net/project/hplip/hplip/3.20.9/hplip-3.20.11.run -O hplip.run
+   96  hplip
+   97  wget hplip
+   98  apt get install hplip
+   99  dpkg -l hplip
+  100  [
+  101  xmodmap -e 'keycode 63='
+  102  docker pull honeygain/honeygain
+  103  xmodmap -e 'keycode 63='
+  104  xmodmap -e 'keycode 63='*****************
+  105  xmodmap -e 'keycode 63='*
+  106  xmodmap -e 'keycode 63='
+  107  *
+  108  xmodmap -e 'keycode 63='*
+  109  xmodmap -e 'keycode 63='
+  110  xmodmap -e 'keycode 63='4
+  111  xmodmap -e 'keycode 63='
+  112  docker install
+  113  sudo apt install docker.io
+  114  docker run honeygain/honeygain -tou-get
+  115  docker pull honeygain/honeygain
+  116  xmodmap -e 'keycode 63='
+  117  xmodmap -e 'keycode 63='******
+  118  xmodmap -e 'keycode 63='*
+  119  xmodmap -e 'keycode 63='
+  120  ps -ef
+  121  ps -ef | grep tlaucher
+  122  xmodmap -e 'keycode 63='
+  123  unistall docker
+  124  uninstall docker
+  125  sudo apt-get auto-remove docker
+  126  xmodmap -e 'keycode 63='
+  127  xmodmap -e 'keycode 63='**
+  128  xmodmap -e 'keycode 63='
+  129  sudo apt install git
+  130  apt get uptdate
+  131  apt install update
+  132  update
+  133  xmodmap -e 'keycode 63='*******
+  134  xmodmap -e 'keycode 63=******
+  135  xmodmap -e 'keycode 63='
+  136  xmodmap -e 'keycode 63='*
+  137  xmodmap -e 'keycode 63='
+  138  xmodmap -e 'keycode 63='*
+  139  xmodmap -e 'keycode 63='
+  140  cd /temp
+  141  ls -l
+  142  whreami
+  143  whereami
+  144  xmodmap -e 'keycode 63='*
+  145  xmodmap -e 'keycode 63='
+  146  git help
+  147  github
+  148  apt get github
+  149  git init
+  150  stattus
+  151  git status
+  152  ls
+  153  cd Documentos/
+  154  ls
+  155  cd script/
+  156  ls
+  157  cd atividades/
+  158  ls
+  159  git
+  160  reset
+  161  git status
+  162  ls
+  163  git add lista 3
+  164  git add /lista 3
+  165  ls
+  166  git help
+  167  git init
+  168  git initPeriodo4
+  169  git init Periodo4
+  170  git status
+  171  cd Documentos/script/atividades/
+  172  ls
+  173  cd Periodo4/
+  174  git add 'lista 3'
+  175  git login
+  176  git help
+  177  git commit
+  178  git config --global user.email amanda.laryssa@academico.ifpb.edu.br
+  179  git commit
+  180  git add
+  181  git add.
+  182  add.
+  183  git add lista 3/
+  184  git add lista3/
+  185  ls
+  186  git add 'lista 3'/
+  187  git commit Periodo4
+  188  git commit 
+  189  git help
+  190  git status
+  191  git reset
+  192  git status
+  193  git clone https://github.com/amanda-laryssa/Periodo4
+  194  git status
+  195  git add
+  196  git add Periodo4/
+  197  ls
+  198  cd Periodo4/
+  199  LS
+  200  ls
+  201  status
+  202  git staus
+  203  git status
+  204  mkdir atividades
+  205  ls
+  206  cd atividades
+  207  ls
+  208  mkdir lista 6
+  209  ls
+  210  rm 6
+  211  rmdir 6
+  212  rmdir lista
+  213  ls
+  214  mkdir lista_6
+  215  ls
+  216  cd lista_6/
+  217  ls
+  218  vim questao1.sh
+  219  sudo aptinstall vim
+  220  sudo apt install vim]
+  221  sudo apt install vim
+  222  vim questao1-p1.sh
+  223  ls
+  224  vim questao1-p2.sh
+  225  ls
+  226  git add
+  227  git add.
+  228  git add /atividades
+  229  ls
+  230  git commit
+  231  git add 
+  232  git add.
+  233  git commit /atividades
+  234  git add /atividades
+  235  ls
+  236  git add /atividades/lista_6
+  237  git help
+  238  push /atividades
+  239  git push
+  240  git config
+  241  git config user.email amanda.laryssa@academico.ifpb.edu.br
+  242  git config user.name "amanda"
+  243  git commit
+  244  git add
+  245  git add.
+  246  git add .
+  247  ls
+  248  git commit
+  249  push origin master
+  250  git push origin master
+  251  git help
+  252  push
+  253  branch
+  254  git branch
+  255  git push origin master
+  256  xmodmap -e 'keycode 63='
+  257  unistall git
+  258  app unistal git
+  259  ls
+  260  cd Documentos/
+  261  sudo apt install git
+  262  git clone https://github.com/amanda-laryssa/Script
+  263  ls
+  264  cd Script/
+  265  ls
+  266  > .gitignore
+  267  vim .gitignore
+  268  git status
+  269  git add .
+  270  ls
+  271  git status
+  272  ls
+  273  git add .
+  274  git commit
+  275  ls
+  276  git status
+  277  git push
+  278  git add .
+  279  git commit
+  280  git add .
+  281  git commit
+  282  git status
+  283  ls
+  284  git push
+  285  git add
+  286  git add .
+  287  git commit
+  288  git push
+  289  git add .
+  290  git commit
+  291  git push
+  292  apt get update
+  293  apt install update
+  294  sudo apt update
+  295  clean
+  296  clear
+  297  xmodmap 63
+  298  xmodmap -e 'keycode 63='
+  299  ps -aux
+  300  kill 4935
+  301  kill all
+  302  defunct
+  303  ps axo stat,ppid,pid,comm | grep -w defunct
+  304  xmodmap -e 'keycode 63='
+  305  sudo apt install v4l2loopback-dkms
+  306  sudo add-apt-repository ppa:obsproject/obs-studio
+  307  sudo apt update
+  308  sudo apt install obs-studio
+  309  xmodmap -e 'keycode 63='
+  310  ls -1 /dev/{ashmem,binder}
+  311  /dev/ashmem
+  312  xmodmap -e 'keycode 63='**************************
+  313  xmodmap -e 'keycode 63='
+  314  git add.
+  315  cd Documentos/
+  316  ls
+  317  cd Script/
+  318  ls
+  319  git add.
+  320  git add 
+  321  git add .
+  322  git add commit
+  323  git commit
+  324  git push
+  325  git add
+  326  git add .
+  327  ls
+  328  cd Doc
+  329  cd Documentos/
+  330  LS
+  331  ls
+  332  cd Script/
+  333  ls
+  334  git add .
+  335  git commit
+  336  git push
+  337  xmodmap -e 'keycode 63='
+  338  xmodmap -e 'keycode 63='**
+  339  xmodmap -e 'keycode 63=****
+  340  xmodmap -e 'keycode 63='
+  341  xmodmap -e 'keycode 63='***
+  342  xmodmap -e 'keycode 63=
+  343  xmodmap -e 'keycode 63='
+  344  sudo dpkg --configure -a
+  345  xmodmap -e 'keycode 63='***
+  346  xmodmap -e 'keycode 63='***
+  347  xmodmap -e 'keycode 63='
+  348  xmodmap -e 'keycode 63='**
+  349  xmodmap -e 'keycode 63='
+  350  ls
+  351  cd Documentos/
+  352  ls
+  353  cd Script/
+  354  ls
+  355  git add.
+  356  git add
+  357  git add.
+  358  git commit
+  359  git add.
+  360  git add
+  361  git add. 
+  362  gitadd. 
+  363  git add. 
+  364  add.
+  365  git add lista_10/
+  366  git commit 
+  367  git help
+  368  git push
+  369  xmodmap -e 'keycode 63='
+  370  get
+  371  apt get
+  372  apt install get
+  373  yad
+  374  sudo apt install yad
+  375  version
+  376  xmodmap -e 'keycode 63='
+  377  xmod
+  378  xmodmap 
+  379  xev
+  380  xmodmap -e 'keycode 38='
+  381  xmodmap -e 'keycode 63='
+  382  xev
+  383  xmodmap -e 'keycode -13='
+  384  xmodmap -help
+  385  xmodmap -pk
+  386  xmodmap -pke
+  387  xmodmap -
+  388  xmodmap -
+  389  xmodmap -e 'keycode 63='
+  390  xev
+  391  xmodmap -e 'keycode 20='
+  392  xmodmap -e 'keycode 21='
+  393  xmodmap 
+  394  xmodmap -n 'keycode 20='
+  395  xmodmap -n 
+  396  xmodmap -e 'keycode 63='
+  397  xev
+  398  xmodmap -e 'keycode 38=a'
+  399  xmodmap -e 'keycode 20=-'
+  400  apt get instal setxkbmap
+  401  apt  install setxkbmap
+  402  setxkbmap
+  403  install setxkbmap
+  404  apt install get
+  405  xmodmap -e 'keycode 63='
+  406  cd Documentos/
+  407  ls
+  408  cd Script/
+  409  ls
+  410  git commit
+  411  git add.
+  412  git add
+  413  git add .
+  414  git push
+  415  git commit
+  416  git commit
+  417  git push
+  418  git commit
+  419  git push
+  420  xmodmap -e 'keycode 63='
+  421  zenit
+  422  sudo apt install zenit
+  423  dowloads
+  424  help
+  425  history help
+  426  history 
+  427  ls
+  428  cd Documentos/
+  429  ls
+  430  cd Script/
+  431  ls
+  432  cd Lista_12
+  433  ls
+  434  pwd
+  435  history > /home/amanda/Documentos/Script/Lista_12/historico_comandos.txt
